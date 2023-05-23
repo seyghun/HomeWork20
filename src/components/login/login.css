@@ -129,3 +129,18 @@ body {
 .link-text_signup {
     justify-content: right;
 }
+
+.remember-2 {
+    display: flex;
+    justify-content: left;
+    width: fit-content;
+    margin: 0 auto;
+    width: 520px;
+    color: #FFFF;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.remember-2 p {
+    margin-top: 25px;
+}

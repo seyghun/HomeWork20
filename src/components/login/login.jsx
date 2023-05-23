@@ -12,7 +12,7 @@ const Login = () => {
             <h2 className='title'>Sign in</h2>
             <input className='data-inputs data-input-1' type="text" placeholder='Email Address*' />
             <input className='data-inputs' type="text" placeholder='Password*' />
-            <span className='remember'>
+            <span className='remember-2'>
                 <input type="checkbox" className='checkbox' name="Remember me" />
                 <p>Remember me</p>
             </span>
